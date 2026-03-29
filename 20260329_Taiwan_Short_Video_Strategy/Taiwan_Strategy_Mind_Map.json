@@ -1,0 +1,197 @@
+{
+  "name": "2026 SNS & SEO Strategy",
+  "children": [
+    {
+      "name": "Instagram Algorithm 2026",
+      "children": [
+        {
+          "name": "Core Ranking Factors",
+          "children": [
+            {
+              "name": "Send/Share Counts (DM)"
+            },
+            {
+              "name": "Watch Time & Retention"
+            },
+            {
+              "name": "Likes & Saves"
+            },
+            {
+              "name": "Audio Page Navigation"
+            }
+          ]
+        },
+        {
+          "name": "Major System Changes",
+          "children": [
+            {
+              "name": "Interest-based Distribution"
+            },
+            {
+              "name": "Trial Reels for New Accounts"
+            },
+            {
+              "name": "Originality Protection Labels"
+            },
+            {
+              "name": "Aggregator Account Demotion"
+            }
+          ]
+        },
+        {
+          "name": "Hashtag Shift",
+          "children": [
+            {
+              "name": "3-5 Relevant Tags Recommended"
+            },
+            {
+              "name": "Focus on AI Genre Labeling"
+            },
+            {
+              "name": "Avoid Excessive Tagging"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Short-Form Video Mastery",
+      "children": [
+        {
+          "name": "Platform Optimization",
+          "children": [
+            {
+              "name": "TikTok: Massive Awareness"
+            },
+            {
+              "name": "IG Reels: Trust & Sales"
+            },
+            {
+              "name": "YT Shorts: Searchable Assets"
+            }
+          ]
+        },
+        {
+          "name": "Video Structure",
+          "children": [
+            {
+              "name": "0-3s Hook: Grab Attention"
+            },
+            {
+              "name": "3-25s Value: Information/Story"
+            },
+            {
+              "name": "26-30s CTA: Drive Action"
+            }
+          ]
+        },
+        {
+          "name": "Production Standards",
+          "children": [
+            {
+              "name": "9:16 Vertical Format"
+            },
+            {
+              "name": "Jump Cuts (Remove Silences)"
+            },
+            {
+              "name": "Clear, Bold Subtitles"
+            },
+            {
+              "name": "4K/60fps High Quality"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Google Search & SEO",
+      "children": [
+        {
+          "name": "Core Update Recovery",
+          "children": [
+            {
+              "name": "Focus on User-First Content"
+            },
+            {
+              "name": "Avoid Small Manual Tweaks"
+            },
+            {
+              "name": "Study Accurate Data (Search Console)"
+            },
+            {
+              "name": "Establish Personal Authority"
+            }
+          ]
+        },
+        {
+          "name": "AIO & LLMO",
+          "children": [
+            {
+              "name": "AI Search Optimization"
+            },
+            {
+              "name": "High Metadata Clarity"
+            },
+            {
+              "name": "Structured Data for AI Discovery"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "X (Twitter) & AI Trends",
+      "children": [
+        {
+          "name": "New Algorithm (Grok Powered)",
+          "children": [
+            {
+              "name": "Sequence-based Behavior Evaluation"
+            },
+            {
+              "name": "Open Source Transparency"
+            },
+            {
+              "name": "Focus on Natural Engagement"
+            }
+          ]
+        },
+        {
+          "name": "Compliance & Risks",
+          "children": [
+            {
+              "name": "Ban on URL/Hashtag Ads"
+            },
+            {
+              "name": "Engagement Spam Prohibition"
+            },
+            {
+              "name": "AI Content Transparency Labels"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Line & Meta Ecosystem",
+      "children": [
+        {
+          "name": "LINE: 2-Step Message Pricing"
+        },
+        {
+          "name": "LINE: Business Profile Refresh"
+        },
+        {
+          "name": "Threads: Algorithm Controls (Dear Algo)"
+        },
+        {
+          "name": "Threads: Ghost Posts (24h Delete)"
+        },
+        {
+          "name": "Meta AI: Gradual Japan Rollout"
+        }
+      ]
+    }
+  ]
+}
